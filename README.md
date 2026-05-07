@@ -62,7 +62,7 @@ Ensure the following are installed before setting up the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/java-salesforce-automation.git
+git clone https://github.com/saikiranmunagla/java-salesforce-automation.git
 cd java-salesforce-automation
 ```
 
